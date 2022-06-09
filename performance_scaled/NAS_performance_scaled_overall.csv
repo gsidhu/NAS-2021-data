@@ -1,0 +1,571 @@
+state_name;grade;subject;state_id;score;standard error;category
+Andaman & Nicobar Islands;3;evs;35;302;3;1
+Andhra Pradesh;3;evs;28;298;0.4;0
+Arunachal Pradesh;3;evs;12;286;1.6;0
+Assam;3;evs;18;313;0.4;2
+Bihar;3;evs;10;301;0.3;0
+Chandigarh;3;evs;4;313;1.4;2
+Chhattisgarh;3;evs;22;289;0.5;0
+Dadra & Nagar Haveli;3;evs;26;277;2.5;0
+Daman & Diu;3;evs;25;294;3.6;0
+Delhi;3;evs;7;288;0.4;0
+Goa;3;evs;30;310;1.2;2
+Gujarat;3;evs;24;313;0.3;2
+Haryana;3;evs;6;300;0.4;0
+Himachal Pradesh;3;evs;2;302;1;0
+Jammu & Kashmir;3;evs;1;310;0.7;2
+Jharkhand;3;evs;20;299;0.4;0
+Karnataka;3;evs;29;307;0.3;1
+Kerala;3;evs;32;318;0.3;2
+Ladakh;3;evs;37;294;4.9;0
+Lakshadweep;3;evs;31;303;8.4;1
+Madhya Pradesh;3;evs;23;316;0.3;2
+Maharashtra;3;evs;27;316;0.2;2
+Manipur;3;evs;14;316;1.1;2
+Meghalaya;3;evs;17;292;0.9;0
+Mizoram;3;evs;15;310;2;1
+Nagaland;3;evs;13;303;1.6;0
+Odisha;3;evs;21;309;0.4;2
+Puducherry;3;evs;34;315;1.4;2
+Punjab;3;evs;3;334;0.4;2
+Rajasthan;3;evs;8;322;0.3;2
+Sikkim;3;evs;11;309;3.3;1
+Tamil Nadu;3;evs;33;304;0.3;0
+Telangana;3;evs;36;282;0.4;0
+Tripura;3;evs;16;297;1.1;0
+Uttar Pradesh;3;evs;9;300;0.2;0
+Uttarakhand;3;evs;5;296;0.7;0
+West Bengal;3;evs;19;314;0.3;2
+National Average;3;evs;0;307;0.1;3
+Andaman & Nicobar Islands;3;language;35;323;4.1;1
+Andhra Pradesh;3;language;28;311;0.5;0
+Arunachal Pradesh;3;language;12;299;2;0
+Assam;3;language;18;326;0.5;2
+Bihar;3;language;10;317;0.3;0
+Chandigarh;3;language;4;335;1.9;2
+Chhattisgarh;3;language;22;301;0.6;0
+Dadra & Nagar Haveli;3;language;26;290;3.3;0
+Daman & Diu;3;language;25;306;4.4;0
+Delhi;3;language;7;302;0.5;0
+Goa;3;language;30;327;1.7;2
+Gujarat;3;language;24;330;0.4;2
+Haryana;3;language;6;315;0.5;0
+Himachal Pradesh;3;language;2;319;1.3;0
+Jammu & Kashmir;3;language;1;333;0.9;2
+Jharkhand;3;language;20;314;0.5;0
+Karnataka;3;language;29;323;0.4;1
+Kerala;3;language;32;342;0.4;2
+Ladakh;3;language;37;309;6.8;1
+Lakshadweep;3;language;31;318;11.6;1
+Madhya Pradesh;3;language;23;331;0.3;2
+Maharashtra;3;language;27;333;0.3;2
+Manipur;3;language;14;332;1.4;2
+Meghalaya;3;language;17;303;1.1;0
+Mizoram;3;language;15;332;2.7;2
+Nagaland;3;language;13;319;2;0
+Odisha;3;language;21;330;0.5;2
+Puducherry;3;language;34;331;1.7;2
+Punjab;3;language;3;355;0.5;2
+Rajasthan;3;language;8;339;0.4;2
+Sikkim;3;language;11;331;4.3;1
+Tamil Nadu;3;language;33;320;0.4;0
+Telangana;3;language;36;294;0.5;0
+Tripura;3;language;16;313;1.5;0
+Uttar Pradesh;3;language;9;314;0.2;0
+Uttarakhand;3;language;5;311;0.9;0
+West Bengal;3;language;19;337;0.4;2
+National Average;3;language;0;323;0.1;3
+Andaman & Nicobar Islands;3;math;35;290;3.3;0
+Andhra Pradesh;3;math;28;298;0.5;0
+Arunachal Pradesh;3;math;12;277;1.7;0
+Assam;3;math;18;314;0.5;2
+Bihar;3;math;10;304;0.3;0
+Chandigarh;3;math;4;311;1.7;2
+Chhattisgarh;3;math;22;283;0.5;0
+Dadra & Nagar Haveli;3;math;26;272;3.1;0
+Daman & Diu;3;math;25;294;4.2;0
+Delhi;3;math;7;282;0.4;0
+Goa;3;math;30;299;1.3;0
+Gujarat;3;math;24;310;0.3;2
+Haryana;3;math;6;299;0.4;0
+Himachal Pradesh;3;math;2;296;1.1;0
+Jammu & Kashmir;3;math;1;310;0.8;2
+Jharkhand;3;math;20;298;0.4;0
+Karnataka;3;math;29;306;0.4;1
+Kerala;3;math;32;313;0.4;2
+Ladakh;3;math;37;283;5.5;0
+Lakshadweep;3;math;31;298;10.9;1
+Madhya Pradesh;3;math;23;315;0.3;2
+Maharashtra;3;math;27;316;0.2;2
+Manipur;3;math;14;310;1.2;2
+Meghalaya;3;math;17;279;0.9;0
+Mizoram;3;math;15;303;2.1;1
+Nagaland;3;math;13;292;1.7;0
+Odisha;3;math;21;313;0.5;2
+Puducherry;3;math;34;310;1.4;2
+Punjab;3;math;3;339;0.5;2
+Rajasthan;3;math;8;325;0.4;2
+Sikkim;3;math;11;298;3.2;1
+Tamil Nadu;3;math;33;304;0.4;0
+Telangana;3;math;36;278;0.5;0
+Tripura;3;math;16;292;1.3;0
+Uttar Pradesh;3;math;9;298;0.2;0
+Uttarakhand;3;math;5;291;0.8;0
+West Bengal;3;math;19;314;0.4;2
+National Average;3;math;0;306;0.1;3
+Andaman & Nicobar Islands;5;evs;35;283;2.9;1
+Andhra Pradesh;5;evs;28;270;0.4;0
+Arunachal Pradesh;5;evs;12;271;1.6;0
+Assam;5;evs;18;291;0.5;2
+Bihar;5;evs;10;280;0.3;0
+Chandigarh;5;evs;4;293;1.5;2
+Chhattisgarh;5;evs;22;269;0.4;0
+Dadra & Nagar Haveli;5;evs;26;260;1.9;0
+Daman & Diu;5;evs;25;269;3;0
+Delhi;5;evs;7;274;0.4;0
+Goa;5;evs;30;278;1.2;0
+Gujarat;5;evs;24;287;0.3;2
+Haryana;5;evs;6;283;0.4;1
+Himachal Pradesh;5;evs;2;275;0.9;0
+Jammu & Kashmir;5;evs;1;297;0.7;2
+Jharkhand;5;evs;20;278;0.4;0
+Karnataka;5;evs;29;278;0.3;0
+Kerala;5;evs;32;283;0.3;0
+Ladakh;5;evs;37;285;5.1;1
+Lakshadweep;5;evs;31;276;6.7;1
+Madhya Pradesh;5;evs;23;297;0.3;2
+Maharashtra;5;evs;27;291;0.2;2
+Manipur;5;evs;14;288;1;2
+Meghalaya;5;evs;17;265;0.9;0
+Mizoram;5;evs;15;270;1.6;0
+Nagaland;5;evs;13;274;1.4;0
+Odisha;5;evs;21;282;0.4;0
+Puducherry;5;evs;34;290;1.4;2
+Punjab;5;evs;3;310;0.5;2
+Rajasthan;5;evs;8;304;0.4;2
+Sikkim;5;evs;11;276;2.9;0
+Tamil Nadu;5;evs;33;277;0.3;0
+Telangana;5;evs;36;260;0.4;0
+Tripura;5;evs;16;277;1.2;0
+Uttar Pradesh;5;evs;9;279;0.2;0
+Uttarakhand;5;evs;5;278;0.7;0
+West Bengal;5;evs;19;292;0.3;2
+National Average;5;evs;0;284;0.1;3
+Andaman & Nicobar Islands;5;language;35;311;3.2;1
+Andhra Pradesh;5;language;28;294;0.4;0
+Arunachal Pradesh;5;language;12;300;2;0
+Assam;5;language;18;312;0.5;2
+Bihar;5;language;10;305;0.3;0
+Chandigarh;5;language;4;326;1.5;2
+Chhattisgarh;5;language;22;295;0.5;0
+Dadra & Nagar Haveli;5;language;26;285;2.2;0
+Daman & Diu;5;language;25;296;3.2;0
+Delhi;5;language;7;304;0.4;0
+Goa;5;language;30;312;1.5;2
+Gujarat;5;language;24;307;0.3;0
+Haryana;5;language;6;312;0.4;2
+Himachal Pradesh;5;language;2;304;1;0
+Jammu & Kashmir;5;language;1;323;0.8;2
+Jharkhand;5;language;20;303;0.4;0
+Karnataka;5;language;29;312;0.3;2
+Kerala;5;language;32;313;0.4;2
+Ladakh;5;language;37;309;5;1
+Lakshadweep;5;language;31;300;8.9;1
+Madhya Pradesh;5;language;23;316;0.3;2
+Maharashtra;5;language;27;317;0.2;2
+Manipur;5;language;14;322;1.1;2
+Meghalaya;5;language;17;294;1.1;0
+Mizoram;5;language;15;302;1.9;0
+Nagaland;5;language;13;306;1.7;1
+Odisha;5;language;21;305;0.4;0
+Puducherry;5;language;34;320;1.6;2
+Punjab;5;language;3;339;0.4;2
+Rajasthan;5;language;8;326;0.3;2
+Sikkim;5;language;11;310;3.7;1
+Tamil Nadu;5;language;33;298;0.3;0
+Telangana;5;language;36;286;0.4;0
+Tripura;5;language;16;304;1.3;0
+Uttar Pradesh;5;language;9;302;0.2;0
+Uttarakhand;5;language;5;304;0.8;0
+West Bengal;5;language;19;318;0.4;2
+National Average;5;language;0;309;0.1;3
+Andaman & Nicobar Islands;5;math;35;278;2.4;0
+Andhra Pradesh;5;math;28;275;0.4;0
+Arunachal Pradesh;5;math;12;268;1.5;0
+Assam;5;math;18;291;0.5;2
+Bihar;5;math;10;283;0.3;0
+Chandigarh;5;math;4;295;1.2;2
+Chhattisgarh;5;math;22;266;0.4;0
+Dadra & Nagar Haveli;5;math;26;264;1.7;0
+Daman & Diu;5;math;25;273;3;0
+Delhi;5;math;7;273;0.3;0
+Goa;5;math;30;274;1.2;0
+Gujarat;5;math;24;287;0.3;2
+Haryana;5;math;6;286;0.4;2
+Himachal Pradesh;5;math;2;270;0.7;0
+Jammu & Kashmir;5;math;1;293;0.7;2
+Jharkhand;5;math;20;276;0.4;0
+Karnataka;5;math;29;285;0.3;1
+Kerala;5;math;32;279;0.3;0
+Ladakh;5;math;37;280;4.4;1
+Lakshadweep;5;math;31;280;6.9;1
+Madhya Pradesh;5;math;23;296;0.3;2
+Maharashtra;5;math;27;287;0.2;2
+Manipur;5;math;14;286;1;1
+Meghalaya;5;math;17;262;0.9;0
+Mizoram;5;math;15;270;1.4;0
+Nagaland;5;math;13;267;1.2;0
+Odisha;5;math;21;290;0.5;2
+Puducherry;5;math;34;291;1.3;2
+Punjab;5;math;3;316;0.5;2
+Rajasthan;5;math;8;306;0.4;2
+Sikkim;5;math;11;268;2.6;0
+Tamil Nadu;5;math;33;279;0.3;0
+Telangana;5;math;36;265;0.4;0
+Tripura;5;math;16;275;1.1;0
+Uttar Pradesh;5;math;9;278;0.2;0
+Uttarakhand;5;math;5;275;0.6;0
+West Bengal;5;math;19;288;0.3;2
+National Average;5;math;0;284;0.1;3
+Andaman & Nicobar Islands;8;language;35;307;4.1;1
+Andhra Pradesh;8;language;28;292;0.5;0
+Arunachal Pradesh;8;language;12;308;2.5;2
+Assam;8;language;18;289;0.4;0
+Bihar;8;language;10;291;0.3;0
+Chandigarh;8;language;4;334;1.8;2
+Chhattisgarh;8;language;22;295;0.5;0
+Dadra & Nagar Haveli;8;language;26;311;5;1
+Daman & Diu;8;language;25;302;4.6;1
+Delhi;8;language;7;316;0.5;2
+Goa;8;language;30;324;1.9;2
+Gujarat;8;language;24;309;0.3;2
+Haryana;8;language;6;325;0.5;2
+Himachal Pradesh;8;language;2;315;1.2;2
+Jammu & Kashmir;8;language;1;319;1.1;2
+Jharkhand;8;language;20;298;0.5;0
+Karnataka;8;language;29;297;0.3;0
+Kerala;8;language;32;312;0.4;2
+Ladakh;8;language;37;321;6.4;2
+Lakshadweep;8;language;31;303;7.2;1
+Madhya Pradesh;8;language;23;306;0.3;2
+Maharashtra;8;language;27;310;0.3;2
+Manipur;8;language;14;320;1.4;2
+Meghalaya;8;language;17;280;1.2;0
+Mizoram;8;language;15;297;2.7;1
+Nagaland;8;language;13;312;1.8;2
+Odisha;8;language;21;303;0.4;2
+Puducherry;8;language;34;315;2;2
+Punjab;8;language;3;338;0.5;2
+Rajasthan;8;language;8;320;0.4;2
+Sikkim;8;language;11;312;3.6;2
+Tamil Nadu;8;language;33;284;0.3;0
+Telangana;8;language;36;289;0.4;0
+Tripura;8;language;16;303;1.3;1
+Uttar Pradesh;8;language;9;286;0.2;0
+Uttarakhand;8;language;5;308;0.8;2
+West Bengal;8;language;19;315;0.4;2
+National Average;8;language;0;302;0.1;3
+Andaman & Nicobar Islands;8;math;35;247;3;0
+Andhra Pradesh;8;math;28;250;0.4;0
+Arunachal Pradesh;8;math;12;242;1.5;0
+Assam;8;math;18;255;0.4;0
+Bihar;8;math;10;262;0.3;2
+Chandigarh;8;math;4;285;1.8;2
+Chhattisgarh;8;math;22;237;0.4;0
+Dadra & Nagar Haveli;8;math;26;247;3.7;1
+Daman & Diu;8;math;25;251;3.8;1
+Delhi;8;math;7;253;0.4;0
+Goa;8;math;30;242;1.2;0
+Gujarat;8;math;24;254;0.3;0
+Haryana;8;math;6;272;0.5;2
+Himachal Pradesh;8;math;2;247;0.8;0
+Jammu & Kashmir;8;math;1;264;0.9;2
+Jharkhand;8;math;20;256;0.4;1
+Karnataka;8;math;29;251;0.3;0
+Kerala;8;math;32;240;0.2;0
+Ladakh;8;math;37;253;4.4;1
+Lakshadweep;8;math;31;247;4.3;1
+Madhya Pradesh;8;math;23;270;0.3;2
+Maharashtra;8;math;27;250;0.2;0
+Manipur;8;math;14;259;1.1;2
+Meghalaya;8;math;17;232;0.8;0
+Mizoram;8;math;15;240;1.7;0
+Nagaland;8;math;13;238;1;0
+Odisha;8;math;21;261;0.4;2
+Puducherry;8;math;34;252;1.4;1
+Punjab;8;math;3;297;0.6;2
+Rajasthan;8;math;8;286;0.5;2
+Sikkim;8;math;11;237;2;0
+Tamil Nadu;8;math;33;237;0.3;0
+Telangana;8;math;36;243;0.4;0
+Tripura;8;math;16;252;1.2;0
+Uttar Pradesh;8;math;9;247;0.2;0
+Uttarakhand;8;math;5;253;0.7;0
+West Bengal;8;math;19;258;0.4;2
+National Average;8;math;0;255;0.1;3
+Andaman & Nicobar Islands;8;sci;35;254;4.3;1
+Andhra Pradesh;8;sci;28;237;0.4;0
+Arunachal Pradesh;8;sci;12;249;2;1
+Assam;8;sci;18;244;0.4;0
+Bihar;8;sci;10;248;0.3;0
+Chandigarh;8;sci;4;285;1.8;2
+Chhattisgarh;8;sci;22;241;0.5;0
+Dadra & Nagar Haveli;8;sci;26;246;4.8;1
+Daman & Diu;8;sci;25;246;4;1
+Delhi;8;sci;7;257;0.4;2
+Goa;8;sci;30;259;1.6;2
+Gujarat;8;sci;24;253;0.3;2
+Haryana;8;sci;6;268;0.5;2
+Himachal Pradesh;8;sci;2;253;1.1;2
+Jammu & Kashmir;8;sci;1;270;1.1;2
+Jharkhand;8;sci;20;250;0.4;1
+Karnataka;8;sci;29;248;0.3;0
+Kerala;8;sci;32;252;0.4;2
+Ladakh;8;sci;37;257;5.9;1
+Lakshadweep;8;sci;31;245;6.5;1
+Madhya Pradesh;8;sci;23;258;0.3;2
+Maharashtra;8;sci;27;248;0.3;0
+Manipur;8;sci;14;262;1.2;2
+Meghalaya;8;sci;17;229;1;0
+Mizoram;8;sci;15;241;2.2;0
+Nagaland;8;sci;13;246;1.4;1
+Odisha;8;sci;21;253;0.4;2
+Puducherry;8;sci;34;258;1.8;2
+Punjab;8;sci;3;287;0.5;2
+Rajasthan;8;sci;8;276;0.4;2
+Sikkim;8;sci;11;248;3;1
+Tamil Nadu;8;sci;33;232;0.3;0
+Telangana;8;sci;36;235;0.4;0
+Tripura;8;sci;16;252;1.4;1
+Uttar Pradesh;8;sci;9;237;0.2;0
+Uttarakhand;8;sci;5;250;0.7;1
+West Bengal;8;sci;19;260;0.4;2
+National Average;8;sci;0;250;0.1;3
+Andaman & Nicobar Islands;8;sst;35;246;3.7;0
+Andhra Pradesh;8;sst;28;239;0.4;0
+Arunachal Pradesh;8;sst;12;249;2;0
+Assam;8;sst;18;256;0.5;2
+Bihar;8;sst;10;257;0.3;2
+Chandigarh;8;sst;4;287;1.9;2
+Chhattisgarh;8;sst;22;242;0.5;0
+Dadra & Nagar Haveli;8;sst;26;249;4.1;1
+Daman & Diu;8;sst;25;244;4.1;0
+Delhi;8;sst;7;254;0.4;1
+Goa;8;sst;30;249;1.4;0
+Gujarat;8;sst;24;255;0.3;1
+Haryana;8;sst;6;268;0.5;2
+Himachal Pradesh;8;sst;2;253;1;1
+Jammu & Kashmir;8;sst;1;267;1;2
+Jharkhand;8;sst;20;254;0.5;1
+Karnataka;8;sst;29;256;0.3;2
+Kerala;8;sst;32;250;0.3;0
+Ladakh;8;sst;37;261;5.4;1
+Lakshadweep;8;sst;31;244;6.5;1
+Madhya Pradesh;8;sst;23;264;0.3;2
+Maharashtra;8;sst;27;257;0.3;2
+Manipur;8;sst;14;259;1.2;2
+Meghalaya;8;sst;17;231;1;0
+Mizoram;8;sst;15;242;2.1;0
+Nagaland;8;sst;13;253;1.4;1
+Odisha;8;sst;21;255;0.4;1
+Puducherry;8;sst;34;256;1.6;1
+Punjab;8;sst;3;288;0.5;2
+Rajasthan;8;sst;8;288;0.5;2
+Sikkim;8;sst;11;247;2.6;0
+Tamil Nadu;8;sst;33;237;0.3;0
+Telangana;8;sst;36;235;0.4;0
+Tripura;8;sst;16;257;1.3;1
+Uttar Pradesh;8;sst;9;244;0.2;0
+Uttarakhand;8;sst;5;253;0.7;0
+West Bengal;8;sst;19;265;0.4;2
+National Average;8;sst;0;255;0.1;3
+Andaman & Nicobar Islands;10;eng;35;310;5.4;2
+Andhra Pradesh;10;eng;28;291;0.5;2
+Arunachal Pradesh;10;eng;12;305;3;2
+Assam;10;eng;18;270;0.5;0
+Bihar;10;eng;10;259;0.3;0
+Chandigarh;10;eng;4;345;2.6;2
+Chhattisgarh;10;eng;22;257;0.4;0
+Dadra & Nagar Haveli;10;eng;26;262;3.2;0
+Daman & Diu;10;eng;25;285;6.3;1
+Delhi;10;eng;7;321;0.6;2
+Goa;10;eng;30;338;2.9;2
+Gujarat;10;eng;24;271;0.3;0
+Haryana;10;eng;6;304;0.5;2
+Himachal Pradesh;10;eng;2;291;1.3;2
+Jammu & Kashmir;10;eng;1;296;1.1;2
+Jharkhand;10;eng;20;269;0.4;0
+Karnataka;10;eng;29;283;0.4;2
+Kerala;10;eng;32;300;0.5;2
+Ladakh;10;eng;37;305;7.7;2
+Lakshadweep;10;eng;31;290;13;1
+Madhya Pradesh;10;eng;23;273;0.3;0
+Maharashtra;10;eng;27;286;0.3;2
+Manipur;10;eng;14;311;1.8;2
+Meghalaya;10;eng;17;278;2;1
+Mizoram;10;eng;15;279;3;1
+Nagaland;10;eng;13;312;2.6;2
+Odisha;10;eng;21;273;0.4;0
+Puducherry;10;eng;34;325;2.3;2
+Punjab;10;eng;3;330;0.5;2
+Rajasthan;10;eng;8;289;0.4;2
+Sikkim;10;eng;11;303;3.5;2
+Tamil Nadu;10;eng;33;275;0.4;0
+Telangana;10;eng;36;291;0.5;2
+Tripura;10;eng;16;273;1.5;0
+Uttar Pradesh;10;eng;9;253;0.2;0
+Uttarakhand;10;eng;5;280;0.8;2
+West Bengal;10;eng;19;279;0.4;2
+National Average;10;eng;0;277;0.1;3
+Andaman & Nicobar Islands;10;math;35;224;3.8;1
+Andhra Pradesh;10;math;28;217;0.5;0
+Arunachal Pradesh;10;math;12;203;1.9;0
+Assam;10;math;18;221;0.5;1
+Bihar;10;math;10;229;0.3;2
+Chandigarh;10;math;4;261;2.6;2
+Chhattisgarh;10;math;22;202;0.4;0
+Dadra & Nagar Haveli;10;math;26;201;2.4;0
+Daman & Diu;10;math;25;208;5.2;1
+Delhi;10;math;7;230;0.5;2
+Goa;10;math;30;213;2.1;0
+Gujarat;10;math;24;211;0.3;0
+Haryana;10;math;6;242;0.5;2
+Himachal Pradesh;10;math;2;209;0.9;0
+Jammu & Kashmir;10;math;1;216;0.9;0
+Jharkhand;10;math;20;218;0.4;0
+Karnataka;10;math;29;219;0.4;0
+Kerala;10;math;32;210;0.3;0
+Ladakh;10;math;37;208;4.4;1
+Lakshadweep;10;math;31;201;6.8;1
+Madhya Pradesh;10;math;23;226;0.3;2
+Maharashtra;10;math;27;211;0.3;0
+Manipur;10;math;14;217;1.3;1
+Meghalaya;10;math;17;198;1.4;0
+Mizoram;10;math;15;200;1.8;0
+Nagaland;10;math;13;200;1.8;0
+Odisha;10;math;21;224;0.4;2
+Puducherry;10;math;34;226;2;2
+Punjab;10;math;3;273;0.7;2
+Rajasthan;10;math;8;256;0.5;2
+Sikkim;10;math;11;195;2.2;0
+Tamil Nadu;10;math;33;200;0.3;0
+Telangana;10;math;36;210;0.4;0
+Tripura;10;math;16;214;1.5;0
+Uttar Pradesh;10;math;9;211;0.2;0
+Uttarakhand;10;math;5;218;0.7;0
+West Bengal;10;math;19;214;0.4;0
+National Average;10;math;0;220;0.1;3
+Andaman & Nicobar Islands;10;mil;35;255;4.2;1
+Andhra Pradesh;10;mil;28;252;0.3;0
+Arunachal Pradesh;10;mil;12;240;2.2;0
+Assam;10;mil;18;250;0.4;0
+Bihar;10;mil;10;250;0.2;0
+Chandigarh;10;mil;4;290;1.9;2
+Chhattisgarh;10;mil;22;258;0.4;0
+Dadra & Nagar Haveli;10;mil;26;244;2.7;0
+Daman & Diu;10;mil;25;262;5.6;1
+Delhi;10;mil;7;283;0.5;2
+Goa;10;mil;30;229;1.8;0
+Gujarat;10;mil;24;263;0.3;2
+Haryana;10;mil;6;284;0.4;2
+Himachal Pradesh;10;mil;2;267;1;2
+Jammu & Kashmir;10;mil;1;243;0.9;0
+Jharkhand;10;mil;20;255;0.4;0
+Karnataka;10;mil;29;242;0.2;0
+Kerala;10;mil;32;278;0.4;2
+Ladakh;10;mil;37;235;5.1;0
+Lakshadweep;10;mil;31;233;9.8;0
+Madhya Pradesh;10;mil;23;268;0.3;2
+Maharashtra;10;mil;27;267;0.3;2
+Manipur;10;mil;14;218;1.3;0
+Meghalaya;10;mil;17;212;2;0
+Mizoram;10;mil;15;204;2.7;0
+Nagaland;10;mil;13;212;1.9;0
+Odisha;10;mil;21;252;0.3;0
+Puducherry;10;mil;34;216;3;0
+Punjab;10;mil;3;288;0.4;2
+Rajasthan;10;mil;8;280;0.3;2
+Sikkim;10;mil;11;233;2.8;0
+Tamil Nadu;10;mil;33;254;0.3;0
+Telangana;10;mil;36;242;0.3;0
+Tripura;10;mil;16;250;1.2;0
+Uttar Pradesh;10;mil;9;252;0.2;0
+Uttarakhand;10;mil;5;263;0.7;2
+West Bengal;10;mil;19;265;0.3;2
+National Average;10;mil;0;260;0.1;3
+Andaman & Nicobar Islands;10;sci;35;229;4.8;2
+Andhra Pradesh;10;sci;28;205;0.4;0
+Arunachal Pradesh;10;sci;12;209;2.5;1
+Assam;10;sci;18;202;0.5;0
+Bihar;10;sci;10;202;0.3;0
+Chandigarh;10;sci;4;260;2.4;2
+Chhattisgarh;10;sci;22;189;0.4;0
+Dadra & Nagar Haveli;10;sci;26;190;2.9;0
+Daman & Diu;10;sci;25;204;6.3;1
+Delhi;10;sci;7;233;0.6;2
+Goa;10;sci;30;230;2.5;2
+Gujarat;10;sci;24;201;0.3;0
+Haryana;10;sci;6;230;0.5;2
+Himachal Pradesh;10;sci;2;205;1;1
+Jammu & Kashmir;10;sci;1;218;1.1;2
+Jharkhand;10;sci;20;204;0.4;0
+Karnataka;10;sci;29;206;0.4;1
+Kerala;10;sci;32;208;0.4;2
+Ladakh;10;sci;37;218;6.3;1
+Lakshadweep;10;sci;31;212;12.7;1
+Madhya Pradesh;10;sci;23;206;0.3;1
+Maharashtra;10;sci;27;202;0.3;0
+Manipur;10;sci;14;219;1.5;2
+Meghalaya;10;sci;17;192;1.7;0
+Mizoram;10;sci;15;189;2.2;0
+Nagaland;10;sci;13;204;1.9;1
+Odisha;10;sci;21;205;0.4;0
+Puducherry;10;sci;34;225;2;2
+Punjab;10;sci;3;254;0.6;2
+Rajasthan;10;sci;8;238;0.4;2
+Sikkim;10;sci;11;200;2.7;1
+Tamil Nadu;10;sci;33;195;0.3;0
+Telangana;10;sci;36;202;0.5;0
+Tripura;10;sci;16;198;1.4;0
+Uttar Pradesh;10;sci;9;191;0.2;0
+Uttarakhand;10;sci;5;207;0.7;2
+West Bengal;10;sci;19;205;0.4;0
+National Average;10;sci;0;206;0.1;3
+Andaman & Nicobar Islands;10;sst;35;245;4.8;2
+Andhra Pradesh;10;sst;28;228;0.5;0
+Arunachal Pradesh;10;sst;12;240;2.7;2
+Assam;10;sst;18;226;0.5;0
+Bihar;10;sst;10;222;0.3;0
+Chandigarh;10;sst;4;287;2.6;2
+Chhattisgarh;10;sst;22;216;0.4;0
+Dadra & Nagar Haveli;10;sst;26;216;2.9;0
+Daman & Diu;10;sst;25;231;6.9;1
+Delhi;10;sst;7;259;0.6;2
+Goa;10;sst;30;256;2.5;2
+Gujarat;10;sst;24;232;0.3;2
+Haryana;10;sst;6;254;0.6;2
+Himachal Pradesh;10;sst;2;234;1.1;2
+Jammu & Kashmir;10;sst;1;237;1.1;2
+Jharkhand;10;sst;20;231;0.4;1
+Karnataka;10;sst;29;235;0.4;2
+Kerala;10;sst;32;239;0.4;2
+Ladakh;10;sst;37;237;7;1
+Lakshadweep;10;sst;31;230;11.2;1
+Madhya Pradesh;10;sst;23;229;0.3;0
+Maharashtra;10;sst;27;233;0.3;2
+Manipur;10;sst;14;246;1.7;2
+Meghalaya;10;sst;17;216;1.6;0
+Mizoram;10;sst;15;217;2.3;0
+Nagaland;10;sst;13;241;2.1;2
+Odisha;10;sst;21;227;0.4;0
+Puducherry;10;sst;34;255;2.2;2
+Punjab;10;sst;3;270;0.5;2
+Rajasthan;10;sst;8;261;0.4;2
+Sikkim;10;sst;11;237;2.9;1
+Tamil Nadu;10;sst;33;222;0.3;0
+Telangana;10;sst;36;226;0.5;0
+Tripura;10;sst;16;225;1.4;0
+Uttar Pradesh;10;sst;9;214;0.2;0
+Uttarakhand;10;sst;5;231;0.7;1
+West Bengal;10;sst;19;232;0.4;2
+National Average;10;sst;0;231;0.1;3

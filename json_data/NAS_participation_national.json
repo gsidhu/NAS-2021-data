@@ -1,0 +1,39 @@
+{
+  "national": [
+    {
+      "rural_location_count": "0",
+      "urban_location": "32.61",
+      "urban_location_count": "0",
+      "govt_school": "40.20",
+      "govt_school_count": "0",
+      "govt_aided_school": "17.27",
+      "govt_aided_school_count": "0",
+      "private_school": "35.25",
+      "private_school_count": "0",
+      "male_gender_count": "0",
+      "central_govt_school": "7.10",
+      "central_govt_school_count": "0",
+      "sc_social_group": "16.04",
+      "sc_social_group_count": "0",
+      "obc_social_group": "42.13",
+      "obc_social_group_count": "0",
+      "st_social_group": "15.22",
+      "st_social_group_count": "0",
+      "general_social_group": "26.19",
+      "general_social_group_count": "0",
+      "male_gender": "49.53",
+      "updated_at": null,
+      "created_at": null,
+      "trans_gender_count": "0",
+      "trans_gender": "0.01",
+      "female_gender_count": "0",
+      "female_gender": "50.47",
+      "id": "33",
+      "grade": "11",
+      "total_school": "118274",
+      "total_student": "3401158",
+      "total_teacher": "526824",
+      "rural_location": "67.39"
+    }
+  ]
+}
