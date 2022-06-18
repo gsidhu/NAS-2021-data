@@ -27,29 +27,34 @@ district_ids = ['1701', '1702', '1703', '1704', '1705', '1706', '1707', '1708', 
 
 state_feedback = {}
 
-for x in range(1,38):
-# for x in range(1,2):
+# for x in range(1,38):
+for x in range(1,2):
 # for x in district_ids:
   # feedback_url = 'https://nas.gov.in/apisadmin/items/pq_state_level_feedback?limit=-1&filter={%22state_id%22:{%22_eq%22:' + str(x) + '},%22grade%22:{%22_eq%22:%2211%22}}'
   # participation_url = 'https://nas.gov.in/apisadmin/items/all_grade_state_participation_tbl?limit=-1&filter={%22state_id%22:{%22_eq%22:' + str(x) + '}}'
-  learning_outcomes_url = 'https://nas.gov.in/apisadmin/items/state_grade_level_learningoutcome?limit=-1&filter={%22state_id%22:{%22_eq%22:' + str(x) + '}}'
+  # learning_outcomes_url = 'https://nas.gov.in/apisadmin/items/state_grade_level_learningoutcome?limit=-1&filter={%22state_id%22:{%22_eq%22:' + str(x) + '}}'
   # performance_url = 'https://nas.gov.in/apisadmin/items/state_grade_level_performance?limit=-1&filter={%22state_id%22:{%22_eq%22:' + str(x) + '}}'
   # state_url = "https://nas.gov.in/apisadmin/items/state_masters?limit=-1&filter={}"
 
   # district_url = "https://nas.gov.in/apisadmin/items/district_masters?limit=-1&filter={}"
+  # district_url = "https://nas.gov.in/apisadmin/items/all_grade_participation_tbl?limit=-1&filter={}"
+  district_url = "https://nas.gov.in/apisadmin/items/pq_district_level_feedback?limit=-1&filter={}"
+  # district_url = "https://nas.gov.in/apisadmin/items/district_grade_level_learningoutcome?limit=-1&filter={}"
   # district_url = "https://nas.gov.in/apisadmin/items/performance_master?limit=-1&filter={%22district_id%22:{%22_eq%22:" + x + "}}"
   # district_url = "https://nas.gov.in/apisadmin/items/all_grade_participation_tbl?limit=-1&filter={%22district_id%22:{%22_eq%22:" + x + "}}"
   # district_url = "https://nas.gov.in/apisadmin/items/district_grade_level_learningoutcome?limit=-1&filter={%22district_id%22:{%22_eq%22:" + x + "}}"
   # district_url = "https://nas.gov.in/apisadmin/items/pq_district_level_feedback?limit=-1&filter={%22district_id%22:{%22_eq%22:" + x + "}}"
   
-  response = requests.get(learning_outcomes_url, headers=headers, cookies=cookies)
+  response = requests.get(district_url, headers=headers, cookies=cookies)
 
   data = response.json()
   data = data['data']
-  state_id = "state " + str(x)
-  state_feedback[state_id] = data
+  to_write = data
+  # state_id = "state " + str(x)
+  # to_write[state_id] = data
   print(x)
 
-with open("NAS_learning_outcomes_tate.json", 'w+') as f:
-  f.write(json.dumps(state_feedback))
+print(data[-1])
+with open("NAS_feedback_district.json", 'w+', encoding='utf-8') as f:
+  f.write(json.dumps(to_write))
   # f.write(json.dumps(data))

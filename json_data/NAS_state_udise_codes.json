@@ -1,0 +1,150 @@
+[
+  {
+    "State": "Andaman & Nicobar Islands",
+    "UDISE_State_Code": 35
+  },
+  {
+    "State": "Andhra Pradesh",
+    "UDISE_State_Code": 28
+  },
+  {
+    "State": "Arunachal Pradesh",
+    "UDISE_State_Code": 12
+  },
+  {
+    "State": "Assam",
+    "UDISE_State_Code": 18
+  },
+  {
+    "State": "Bihar",
+    "UDISE_State_Code": 10
+  },
+  {
+    "State": "Chandigarh",
+    "UDISE_State_Code": 4
+  },
+  {
+    "State": "Chhattisgarh",
+    "UDISE_State_Code": 22
+  },
+  {
+    "State": "Dadra & Nagar Haveli",
+    "UDISE_State_Code": 26
+  },
+  {
+    "State": "Daman & Diu",
+    "UDISE_State_Code": 25
+  },
+  {
+    "State": "Delhi",
+    "UDISE_State_Code": 7
+  },
+  {
+    "State": "Goa",
+    "UDISE_State_Code": 30
+  },
+  {
+    "State": "Gujarat",
+    "UDISE_State_Code": 24
+  },
+  {
+    "State": "Haryana",
+    "UDISE_State_Code": 6
+  },
+  {
+    "State": "Himachal Pradesh",
+    "UDISE_State_Code": 2
+  },
+  {
+    "State": "Jammu & Kashmir",
+    "UDISE_State_Code": 1
+  },
+  {
+    "State": "Jharkhand",
+    "UDISE_State_Code": 20
+  },
+  {
+    "State": "Karnataka",
+    "UDISE_State_Code": 29
+  },
+  {
+    "State": "Kerala",
+    "UDISE_State_Code": 32
+  },
+  {
+    "State": "Ladakh",
+    "UDISE_State_Code": 37
+  },
+  {
+    "State": "Lakshadweep",
+    "UDISE_State_Code": 31
+  },
+  {
+    "State": "Madhya Pradesh",
+    "UDISE_State_Code": 23
+  },
+  {
+    "State": "Maharashtra",
+    "UDISE_State_Code": 27
+  },
+  {
+    "State": "Manipur",
+    "UDISE_State_Code": 14
+  },
+  {
+    "State": "Meghalaya",
+    "UDISE_State_Code": 17
+  },
+  {
+    "State": "Mizoram",
+    "UDISE_State_Code": 15
+  },
+  {
+    "State": "Nagaland",
+    "UDISE_State_Code": 13
+  },
+  {
+    "State": "Odisha",
+    "UDISE_State_Code": 21
+  },
+  {
+    "State": "Puducherry",
+    "UDISE_State_Code": 34
+  },
+  {
+    "State": "Punjab",
+    "UDISE_State_Code": 3
+  },
+  {
+    "State": "Rajasthan",
+    "UDISE_State_Code": 8
+  },
+  {
+    "State": "Sikkim",
+    "UDISE_State_Code": 11
+  },
+  {
+    "State": "Tamil Nadu",
+    "UDISE_State_Code": 33
+  },
+  {
+    "State": "Telangana",
+    "UDISE_State_Code": 36
+  },
+  {
+    "State": "Tripura",
+    "UDISE_State_Code": 16
+  },
+  {
+    "State": "Uttarakhand",
+    "UDISE_State_Code": 5
+  },
+  {
+    "State": "Uttar Pradesh",
+    "UDISE_State_Code": 9
+  },
+  {
+    "State": "West Bengal",
+    "UDISE_State_Code": 19
+  }
+]
